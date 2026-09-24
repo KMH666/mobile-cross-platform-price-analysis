@@ -49,12 +49,6 @@ mobile-cross-platform-price-analysis/
 │   └── cleaned/               # 清洗合并后的数据
 │
 ├── charts/                    # 图表输出目录（5 张 PNG）
-│
-├── 辅助代码/                  # 辅助脚本
-│   ├── create_ppt.py          # 答辩 PPT 自动生成
-│   ├── generate_report.py     # 实验报告 PDF 生成
-│   └── code_snippets.txt      # 代码片段参考
-│
 ├── 分析报告.txt               # 自动生成的文本分析报告
 └── 简单功能演示.mp4           # 运行效果演示视频
 ```
