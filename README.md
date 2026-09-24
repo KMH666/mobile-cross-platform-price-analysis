@@ -26,7 +26,7 @@
 ## 项目结构
 
 ```
-24211870125刘远辉python期末项目/
+mobile-cross-platform-price-analysis/
 ├── config.py                  # 全局配置（关键词、URL、请求头、路径）
 ├── main.py                    # 主入口：爬虫 → 清洗 → 分析 → 可视化 → 推荐
 ├── requirements.txt           # 依赖清单
